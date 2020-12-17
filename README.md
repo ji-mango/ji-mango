@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![image](https://user-images.githubusercontent.com/65328066/102466609-95f20080-4092-11eb-830c-0d749d3819c8.png)
+
 
 <!--
 **ji-mango/ji-mango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
