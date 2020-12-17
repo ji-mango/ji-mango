@@ -1,5 +1,8 @@
-
-![image](https://user-images.githubusercontent.com/65328066/102466609-95f20080-4092-11eb-830c-0d749d3819c8.png)
+<p align="center">
+  <a href="https://ji-mango.github.io/">
+    <img src="https://user-images.githubusercontent.com/65328066/102466906-fb45f180-4092-11eb-9e3f-d3ac08039807.png" width="600">
+  </a>
+</p>
 
 
 <!--
