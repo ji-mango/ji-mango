@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://ji-mango.github.io/">
+  <!--<a href="https://ji-mango.github.io/">-->
+  <a href="https://jimango.tistory.com/">
     <img src="https://user-images.githubusercontent.com/65328066/102466906-fb45f180-4092-11eb-9e3f-d3ac08039807.png" width="600">
   </a>
 </p>
